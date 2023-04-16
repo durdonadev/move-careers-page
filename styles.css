@@ -259,3 +259,99 @@ a {
     font-size: 20px;
     line-height: 35px;
 }
+
+/* Vacancy Section */
+
+#vacancy-section {
+    background-color: #fafbfc;
+}
+
+.vacancy-section__container {
+    max-width: 1440px;
+    padding: 80px 250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.vacancy-section__heading {
+    text-align: center;
+    font-size: 60px;
+    line-height: 72px;
+    color: #323b4b;
+    margin-bottom: 35px;
+}
+
+.vacancy-section__description {
+    margin-bottom: 70px;
+    color: #8a94a6;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.vacancy-section__content {
+    margin-bottom: 80px;
+}
+
+.vacancies__title th {
+    text-align: left;
+    color: #323b4b;
+    font-size: 24px;
+}
+
+.vacancies {
+    width: 100%;
+}
+
+.vacancies th {
+    text-align: left;
+    color: #323b4b;
+    font-size: 20px;
+}
+
+.vacancies td {
+    text-align: left;
+    color: #8a94a6;
+    font-size: 20px;
+}
+
+.vacancy-card {
+    width: 100%;
+
+    padding: 32px 45px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.vacancy-card__title {
+    width: 100%;
+    padding: 32px 45px;
+}
+
+.vacancies :first-child {
+    width: 46%;
+}
+
+.vacancies :nth-child(2) {
+    width: 27%;
+}
+
+.vacancies__title {
+    display: flex;
+    text-align: left;
+    font-size: 24px;
+    color: #323b4b;
+}
+
+.vacancies__title .vacancy__position {
+    width: 46%;
+}
+
+.vacancies__title .vacancy__department {
+    width: 27%;
+}
+
+.vacancies__title .vacancy__location {
+    width: 27%;
+}
