@@ -355,3 +355,59 @@ a {
 .vacancies__title .vacancy__location {
     width: 27%;
 }
+
+/* Footer */
+
+#footer {
+    background-color: #ffffff;
+}
+
+.footer__container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 80px;
+}
+
+.footer__text {
+    color: #8a94a6;
+    font-size: 20px;
+    line-height: 40px;
+    display: block;
+}
+
+.footer__content {
+    display: flex;
+    margin-bottom: 80px;
+    justify-content: space-between;
+}
+
+.footer__brand {
+    width: 30%;
+}
+
+.footer__logo {
+    margin-bottom: 25px;
+}
+
+.footer__social-icons {
+    margin-top: 30px;
+}
+
+.footer__social-icons img:first-child {
+    padding-right: 20px;
+}
+
+.footer__social-icons img:nth-child(2) {
+    padding-right: 20px;
+}
+
+.footer__social-icons img:nth-child(3) {
+    padding-right: 20px;
+}
+
+.footer__heading {
+    color: #323b4b;
+    font-size: 24px;
+    line-height: 48px;
+    margin-bottom: 25px;
+}
