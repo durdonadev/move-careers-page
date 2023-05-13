@@ -9,8 +9,6 @@
 }
 
 .navigation {
-    max-width: 1440px;
-    margin: 0 auto;
     padding: 0 80px;
     align-items: center;
     height: 100%;
@@ -63,10 +61,7 @@
 /* Hero Section */
 
 .hero-section__container {
-    max-width: 1440px;
     padding: 80px;
-    margin: 0 auto;
-
     display: flex;
     align-items: center;
     gap: 40px;
@@ -113,9 +108,7 @@
 }
 
 .features-section__container {
-    max-width: 1440px;
     padding: 80px;
-    margin: 0 auto;
 }
 
 .features-section__heading {
@@ -176,10 +169,7 @@
 /* Content Section */
 
 .content-section__container {
-    max-width: 1440px;
     padding: 80px;
-    margin: 0 auto;
-
     display: flex;
     align-items: center;
     gap: 40px;
@@ -220,9 +210,7 @@
 }
 
 .vacancy-section__container {
-    max-width: 1440px;
     padding: 80px 250px;
-    margin: 0 auto;
     text-align: center;
 }
 
@@ -316,8 +304,6 @@
 }
 
 .footer__container {
-    max-width: 1440px;
-    margin: 0 auto;
     padding: 80px;
 }
 
