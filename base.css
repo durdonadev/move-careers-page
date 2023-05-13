@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fas {
+    font-size: 14px;
+}
+
+.btn {
+    border: none;
+    cursor: pointer;
+}
+
+.btn-sm {
+    height: 45px;
+    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 33px;
+    padding-right: 33px;
+}
+
+.btn-lg {
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.btn-blue {
+    color: #ffffff;
+    background-color: #377dff;
+}
+
+.btn-light-blue {
+    color: #377dff;
+    background-color: #e5f1ff;
+}
